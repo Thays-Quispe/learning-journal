@@ -1,4 +1,4 @@
-# 🎀 Learning Journal | Cybersecurity
+# 💗 Learning Journal | Cybersecurity
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-in%20progress-ff8fbd?style=flat-square" alt="Learning in progress">
@@ -34,15 +34,8 @@ Este repositório reúne minhas anotações de cursos, laboratórios práticos, 
 - [`laboratorios/`](laboratorios/README.md) — práticas e desafios
 - [`projetos/`](projetos/README.md) — projetos autorais e estudos aplicados
 
-## 🎀 Como uso este journal
-
-- [ ] 🩷 Registrar o conteúdo estudado
-- [ ] 🌷 Anotar comandos e ferramentas importantes
-- [ ] 💌 Documentar laboratórios e resultados
-- [ ] ✨ Revisar e atualizar as anotações
-
 > [!NOTE]
-> Este repositório é um diário de aprendizagem. As anotações são atualizadas conforme avanço nos estudos. Todo teste prático deve ser realizado apenas em ambientes próprios ou com autorização.
+> Este repositório é um diário de aprendizagem. As anotações são atualizadas conforme avanço nos estudos. Todo teste prático foi realizado apenas em ambientes próprios ou com autorização.
 
 <p align="center">
   <sub>Feito com 💗, curiosidade e prática constante.</sub>
