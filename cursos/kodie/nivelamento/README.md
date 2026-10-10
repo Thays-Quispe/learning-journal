@@ -4,7 +4,7 @@
 
 ## 🩷 Progresso
 
-- [x] [Introdução ao Mundo da Tecnologia e Cibersegurança](https://github.com/Thays-Quispe/learning-journal/blob/main/Nivelamento/01-introducao-tecnologia-ciberseguranca.md)
+- [x] [Introdução ao Mundo da Tecnologia e Cibersegurança](https://github.com/Thays-Quispe/learning-journal/blob/main/cursos/kodie/nivelamento/01-introducao-tecnologia-ciberseguranca.md)
 - [x] Introdução ao Terminal & Ambiente Linux
 - [x] Navegação no Terminal & Manipulação de Arquivos
 - [x] Como a internet funciona
